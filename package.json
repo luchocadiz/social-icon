@@ -1,0 +1,27 @@
+{
+  "name": "social-icon",
+  "version": "1.0.0",
+  "description": "web component to create social icons, based on lit",
+  "main": "social-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchocadiz/social-icon.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "lit",
+    "javascript"
+  ],
+  "author": "@luchocadiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luchocadiz/social-icon/issues"
+  },
+  "homepage": "https://github.com/luchocadiz/social-icon#readme",
+  "dependencies": {
+    "lit": "^3.2.1"
+  }
+}
