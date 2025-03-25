@@ -1,5 +1,5 @@
 {
-  "name": "social-icon",
+  "name": "kui-social-icon",
   "version": "1.0.0",
   "description": "web component to create social icons, based on lit",
   "main": "kui-social-icon.js",
