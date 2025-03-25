@@ -3,7 +3,7 @@ import { icons } from './icons';
 
 /**
  * 
- * # <social-icon>
+ * # <kui-social-icon>
  * 
  * Web component to create social icons, based on LitElement.
  * 
