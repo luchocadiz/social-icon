@@ -4,6 +4,7 @@
   "description": "web component to create social icons, based on lit",
   "main": "kui-social-icon.js",
   "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +24,8 @@
   "homepage": "https://github.com/luchocadiz/social-icon#readme",
   "dependencies": {
     "lit": "^3.2.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
   }
 }
