@@ -10,7 +10,7 @@ export class SocialIcon extends LitElement {
     ];
 
     render() {
-        return html``;
+        return html`Hello WebComponent.org`;
     }
 }
 customElements.define('social-icon', SocialIcon);
